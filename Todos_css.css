@@ -1,0 +1,121 @@
+
+
+.todos-bg-container {
+    height: 100vh;
+    background-color: #f9fbfe;
+
+}
+
+.todos-main-heading {
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 500;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.create-task-heading {
+    font-size: 32px;
+    font-weight: 700;
+    font-family: "Roboto";
+    margin-left: 15px;
+}
+
+.task-heading {
+    font-size: 32px;
+    font-weight: 500;
+    font-family: "Roboto";
+}
+
+.user-input {
+    margin-top: 10px;
+    border-style: solid;
+    border-width: 1px;
+    background-color: white;
+    border-color: #e4e7eb;
+    padding: 15px;
+    border-radius: 15px;
+    width: 100%;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.add-button {
+    margin-top: 20px;
+    font-family: "Roboto";
+    color: white;
+    background-color:blue;
+    margin-top:10px;
+    font-size: 18px;
+    margin-left: 15px;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-bottom: 50px;
+
+}
+
+.my-tasks-heading {
+    font-size: 32px;
+    font-weight: 700;
+    font-family: "Roboto";
+    margin-left: 15px;
+}
+
+.my-tasks-subpart {
+    font-size: 32px;
+    font-weight: 500;
+    font-family: "Roboto";
+}
+
+.todo-item-container {
+    margin-top: 15px;
+}
+
+.checkbox-input {
+    width: 20px;
+    height: 20px;
+    margin-top: 12px;
+    margin-right: 12px;
+}
+
+.checkbox-label {
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+    width: 82%;
+    margin: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+}
+
+.label-container {
+    background-color: #e6f6ff;
+    width: 80%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #096f92;
+    border-right: none;
+    border-top: none;
+    border-bottom: none;
+    border-radius: 4px;
+}
+
+.delete-icon-container {
+    text-align: right;
+    width: 18%;
+}
+
+.delete-icon {
+    padding: 15px;
+}
+
+.checked {
+    text-decoration: line-through;
+}
